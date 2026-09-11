@@ -1,6 +1,8 @@
 # Online C Compiler & Algorithms Visualizer (GCC 13.2)
 
 [![GCC 13.2](https://img.shields.io/badge/GCC-13.2%20Standard-blue.svg)](https://onlineccompiler.com/)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MoMahdideveloper/online-c-compiler-suite/blob/main/online_c_compiler_benchmark.ipynb)
+[![Google Site](https://img.shields.io/badge/Google%20Sites-Live%20Portal-green.svg)](https://sites.google.com/view/online-c-compiler-suite)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Live IDE](https://img.shields.io/badge/Online%20IDE-Instant%20Execution-success)](https://onlineccompiler.com/)
 
@@ -8,7 +10,9 @@ A modern, cloud-isolated, in-browser C compilation and visual step-debugging sui
 
 ### 🚀 Live Web Applications & Tools
 - **Main Online C Compiler & Debugger**: [https://onlineccompiler.com/](https://onlineccompiler.com/)
-- **Visual Memory & AST Inspector**: [https://onlineccompiler.com/](https://onlineccompiler.com/)
+- **Interactive Google Colab Notebook**: [Open in Colab (colab.research.google.com)](https://colab.research.google.com/github/MoMahdideveloper/online-c-compiler-suite/blob/main/online_c_compiler_benchmark.ipynb)
+- **Google Sites Authority Hub**: [https://sites.google.com/view/online-c-compiler-suite](https://sites.google.com/view/online-c-compiler-suite)
+- **Telegraph Technical Architecture**: [Telegra.ph Systems Guide](https://telegra.ph/Online-C-Compiler-In-Browser-GCC-132-Architecture--Memory-DebuggingMoMahdideveloperOnline-C-Compiler-In-Browser-GCC-132-Architec-09-11)
 - **Documentation & Web App Client**: [https://momahdideveloper.github.io/online-c-compiler-suite/](https://momahdideveloper.github.io/online-c-compiler-suite/)
 
 ---
